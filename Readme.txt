@@ -8,3 +8,4 @@ Git is a free software distributed under the GPL
 
 To understand the stage area
 
+Git tracks changes
