@@ -11,3 +11,6 @@ To understand the stage area
 Git tracks changes of files
 
 Branch dev
+
+creating a new branch is quick AND simple
+
